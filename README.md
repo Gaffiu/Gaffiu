@@ -6,7 +6,7 @@
 
 
 
-##  Estatísticas e Atividade
+
 
 <div align="center">
   <picture>
